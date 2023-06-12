@@ -1,2 +1,2 @@
 # Space-Shooter-Pro
-Unity Projecr-Based Learning to learn Unity fundamental 
+2D Game Unity Projecr-Based Learning to learn Unity fundamental 
